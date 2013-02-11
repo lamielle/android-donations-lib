@@ -13,12 +13,11 @@
     <string name="donations__google_android_market_text">How much?</string>
 
     <string-array name="donations__google_android_market_promt_array">
-        <item>1 Euro</item>
-        <item>2 Euros</item>
-        <item>3 Euros</item>
-        <item>5 Euros</item>
-        <item>8 Euros</item>
-        <item>13 Euros</item>
+        <item>$1</item>
+        <item>$2 Euros</item>
+        <item>$5 Euros</item>
+        <item>$10 Euros</item>
+        <item>$20 Euros</item>
     </string-array>
 
     <string name="donations__paypal">PayPal</string>
